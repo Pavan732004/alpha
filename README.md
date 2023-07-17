@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Princ732004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫  ...
-
-<!---
-Princ732004/Princ732004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ✔👀 C,,
+ ✔👀👀C++,,
+ ✔👀👀👀👀 JAVA
+     <!-- am Alpha 
+              --->
