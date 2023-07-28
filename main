@@ -1,3 +1,7 @@
+JAVA PROJECT
+package second;
+
+import java.util.Scanner;
 
 public class while_loop {
 
